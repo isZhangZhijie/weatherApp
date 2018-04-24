@@ -1,10 +1,10 @@
-# weather_app
+#weather_app
 
-- [项目描述](##项目描述)
-- [项目要点](##项目要点)
-- [项目难点](##项目难点)
-- [额外功能](##额外功能)
-- [项目预览](##项目预览)
+- [项目描述](#项目描述)
+- [项目要点](#项目要点)
+- [项目难点](#项目难点)
+- [额外功能](#额外功能)
+- [项目预览](#项目预览)
 
 ## 项目描述
 
@@ -42,10 +42,10 @@
 
 ## 项目预览
 
-![](F:\wamp64\www\H5\program\weather_app\static\home.png)
+![](http://p7hpld38u.bkt.clouddn.com/home.png)
 
 ![](F:\wamp64\www\H5\program\weather_app\static\home2.png)
 
-![](F:\wamp64\www\H5\program\weather_app\static\history.png)
+![](http://p7hpld38u.bkt.clouddn.com/history.png)
 
-![](F:\wamp64\www\H5\program\weather_app\static\express.png)
+![](http://p7hpld38u.bkt.clouddn.com/express.png)
