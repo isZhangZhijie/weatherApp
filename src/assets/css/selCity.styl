@@ -1,0 +1,66 @@
+.route
+  display flex
+  justify-content left
+  align-items center
+  color #f2eada
+  margin 1rem
+  .text
+    position relative
+    padding .4rem .5rem
+    border 1px solid #f2eada
+    border-radius 4px
+    background #017cda
+    box-shadow 0 0 20px rgba(0, 0, 0, .1) inset
+    &:last-of-type
+      border-color #fff
+  .arrow
+    margin 0 5px
+  /* 设置select样式 */
+  .select-cont
+    display flex
+    justify-content left
+    align-items center
+    .select-item
+      width 7rem
+      &:last-child
+        color #fff
+      .select-head
+        display flex
+        justify-content space-between
+        align-items center
+      .option
+        display none
+        position absolute
+        top 120%
+        left 0
+        z-index 10
+        width 100%
+        height 15rem
+        border 1px solid #00ae9d
+        border-radius 4px
+        // background #7bbfea
+        box-shadow 0 0 20px rgba(0, 0, 0, .3) inset
+        background #fff
+        opacity .9
+        overflow auto
+        .option-item
+          position relative
+          font-size 1rem
+          height 2rem
+          padding .2rem .4rem .2rem .8rem
+          line-height 1.5
+          color #000
+          &::after
+            position absolute
+            bottom -1px
+            left 50%
+            transform translateX(-50%)
+            width 80%
+            height 1px
+            background #33a3dc
+            content: ''
+          &:last-of-type::after
+            width 0
+            height 0
+          &:hover
+            background #585eaa
