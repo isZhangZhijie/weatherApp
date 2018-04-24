@@ -46,7 +46,7 @@
 
 ![](http://p7hpld38u.bkt.clouddn.com/home.png)
 
-![](F:\wamp64\www\H5\program\weather_app\static\home2.png)
+![](http://p7hpld38u.bkt.clouddn.com/home2.png)
 
 ![](http://p7hpld38u.bkt.clouddn.com/history.png)
 
